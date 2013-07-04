@@ -3,7 +3,7 @@ require 'formula'
 class Elasticsearch < Formula
   homepage 'http://www.elasticsearch.org'
   url 'http://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.2.tar.gz'
-  sha1 '24ea64308fbb58b3a981a99eb478aff9e4e78d20'
+  sha1 'b09f5c656912e5c08c9eefa7e95566f1ba7a1ea5'
   version '0.90.2-boxen1'
 
   def cluster_name
